@@ -1,3 +1,4 @@
+![logo](https://github.com/Ahrkano/darkpath/tree/master/.img/darkpath_logo.png)
 # Dark Path to revenge
 
 ### Finalidade
