@@ -1,8 +1,22 @@
-Projeto de desenvolvimento de jogo para à disciplina de Mêcanicas e Balanceamento de Jogos
-
 # Dark Path to revenge
 
+### Finalidade
+Projeto de desenvolvimento de um jogo para à disciplina de Mêcanicas e Balanceamento de Jogos.
 
+## Resumo
+A jornada de um homem em busca de vingança!
+
+## Características
+- 2D
+- Plataforma
+- Ação/Terror
+
+## Plataformas
+- Windows
+- Linux
+
+## Engine
+- Godot 3.0
 
 ## Lista de tarefas
 
