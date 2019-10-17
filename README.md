@@ -15,7 +15,7 @@
 8. [Hierarquia](#hierarquia)
 9. [Observações gerais](#observacoes)
 
-### Finalidade
+## Finalidade
 <a name="finalidade"></a>
 Projeto de desenvolvimento de um jogo para à disciplina de Mêcanicas e Balanceamento de Jogos.
 
