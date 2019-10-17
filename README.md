@@ -27,8 +27,8 @@ A jornada de um homem em busca de vingança!
 - Quando escolher um item coloque \@username depois dele para evitar mais de uma pessoa fazendo a mesma coisa.
 - Quando completar o item colocar \[x] antes dele.
 - Tente pegar só um item por vez e, quando finalizar, pegar o próximo. Não se sobrecarregue :+1: .
-- Se não conseguir completar uma tarefa, coloque "Ajuda" depois dele e tente pegar outro item.
-- Se pegar um item marcado com "Ajuda" coloque o seu \@username depois do \@username principal.
+- Se não conseguir completar uma tarefa, coloque \*\*Ajuda\*\* depois dele e tente pegar outro item.
+- Se pegar um item marcado com **Ajuda** coloque o seu **\@username** depois do **\@username** principal e ajude o coleguinha.
 
 ### Jogador
 - [ ] Movimentação
