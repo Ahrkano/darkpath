@@ -109,6 +109,7 @@ darkpath
 │   └── Player
 │       └── Stevan
 │   └── VFX
+│   └── TTF
 ├── Scenes
 │   └── Enemies
 │   └── GUI
@@ -129,11 +130,11 @@ darkpath
 │   └── Player
 │   └── Screens
 └── Sounds
-│   └── Enemies
-│   └── Enviroment
-│   └── GUI
-│   └── Levels
-│   └── Player
+    └── Enemies
+    └── Enviroment
+    └── GUI
+    └── Levels
+    └── Player
 ```
 
 ## Observações gerais
