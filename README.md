@@ -100,14 +100,22 @@ Representação hierárquica dos arquivos
 darkpath
 ├── Assets
 │   └── Enemies
-│       └── Bruxa
-│       └── Andarilho
+│   │   └── Andarilho
+│   │   └── Bruxa
+│   │   └── ...
 │   └── Enviroment
+│   │   └── Caverna
+│   │   └── Floresta
+│   │   └── Ruinas
 │   └── GUI
 │   └── Itens
+│   │   └── Artefatos
+│   │   └── Consumiveis
 │   └── Parallax
+│   │   └── Caverna
+│   │   └── Floresta
+│   │   └── Ruinas
 │   └── Player
-│       └── Stevan
 │   └── VFX
 │   └── TTF
 ├── Scenes
@@ -116,12 +124,6 @@ darkpath
 │   └── Itens
 │   └── Player
 │   └── Screens
-│       └── Title Screen
-│       └── Options Screen
-│       └── Inventory Screen
-│       └── Pause Screen
-│       └── Credits Screen
-│       └── Game Over Screen
 ├── Scripts
 │   └── Enemies
 │   └── General
@@ -133,7 +135,6 @@ darkpath
     └── Enemies
     └── Enviroment
     └── GUI
-    └── Levels
     └── Player
 ```
 
