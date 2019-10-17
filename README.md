@@ -18,17 +18,28 @@ A jornada de um homem em busca de vingança!
 ## Engine
 - Godot 3.0
 
+## Equipe
+- Airton Everton
+- Alexandre Alyson
+- Matthews Welisson
+
 ## Lista de tarefas
+- Quando escolher um item coloque \@username depois dele para evitar mais de uma pessoa fazendo a mesma coisa.
+- Quando completar o item colocar \[x] antes dele.
+- Tente pegar só um item por vez e, quando finalizar, pegar o próximo. Não se sobrecarregue :+1: .
+- Se não conseguir completar uma tarefa, coloque "Ajuda" depois dele e tente pegar outro item.
+- Se pegar um item marcado com "Ajuda" coloque o seu \@username depois do \@username principal.
 
 ### Jogador
 - [ ] Movimentação
 - [ ] Pulo duplo
 - [ ] Deslizar
 - [ ] Usar escada
-- [ ] Ataques corpo a corpo em solo
-- [ ] Ataques corpo a corpo no ar
+- [ ] Ataques com espada em solo
+- [ ] Ataques com espada no ar
 - [ ] Ataques à distância com magia
-- [ ] Coleta de itens
+- [ ] Habilidade especial
+- [ ] Coleta/Utilização de itens
 - [ ] Morte
 
 ### Inimigos
@@ -46,3 +57,6 @@ A jornada de um homem em busca de vingança!
 - [ ] Tileset
 - [ ] Áudio
 - [ ] \(Opcional) Efeitos especiais
+
+## Observações gerais
+Coloque aqui qualquer consideração que achar necessária.
