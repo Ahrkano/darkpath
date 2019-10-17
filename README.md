@@ -58,5 +58,13 @@ A jornada de um homem em busca de vingança!
 - [ ] Áudio
 - [ ] \(Opcional) Efeitos especiais
 
+### Interface
+- [ ] Telas
+- [ ] Menus
+- [ ] \(Opcional) Inventário
+- [ ] \(Opcional) Salvamento
+- [ ] \(Opcional) Carregamento
+- [ ] HUD não diegético
+
 ## Observações gerais
-Coloque aqui qualquer consideração que achar necessária.
+- Coloque aqui qualquer consideração que achar necessária.
